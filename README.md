@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+%F0%9F%91%8B+I'm+Dawie+Malmsteel;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🌟 Passionate Developer | Tech Enthusiast | Problem Solver 🌟</h3>
+<h3 align="center">🌟 Passionate Developer | Tech Enthusiast | Problem Solver | Neovim User 🌟</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DawieMalmsteel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -16,9 +16,39 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new technologies and frameworks**
 - 💬 Ask me about **web development, programming, and technology**
-+ 💬 Ask me about **software development, programming, and the latest tech trends**
-- 📫 How to reach me: **dinhpdpd09993@fpt.edu.vn**
-- ⚡ Fun fact: **I enjoy coding and tackling complex problems!**
++ 💬 Ask me about **software engineering, programming, and the latest tech trends**
+- 📫 How to reach me: **corclan19@gmail.com**
+- ⚡ Fun fact: **I love solving puzzles and challenges through code!**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DawieMalmsteel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawieMalmsteel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawieMalmsteel&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DawieMalmsteel&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:corclan19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/DawieMalmsteel">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -43,45 +73,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DawieMalmsteel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawieMalmsteel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawieMalmsteel&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DawieMalmsteel&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:dinhpdpd09993@fpt.edu.vn">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/DawieMalmsteel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
-
-<div align="center">
-  <em>💡 "Code is like humor. When you have to explain it, it's bad!" 💡</em>
-</div>
