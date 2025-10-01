@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies I interested In
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,6 +36,14 @@
   <img src="https://img.shields.io/badge/F%23-B845FC?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/lazygit-FC8181?style=for-the-badge&logo=git&logoColor=white" alt="lazygit" />
+  <img src="https://img.shields.io/badge/lazydocker-38B2AC?style=for-the-badge&logo=docker&logoColor=white" alt="lazydocker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
 ---
