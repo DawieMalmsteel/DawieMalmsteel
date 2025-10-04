@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="mailto:corclan19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://github.com/DawieMalmsteel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
@@ -58,6 +58,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,tailwind,go,rust,cs,fs,dotnet,ocaml,lua,python,neovim,git,docker,mysql,mongodb,php,laravel,linux,arch" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,angular,bash,obsidian,figma,tailwind,go,rust,cs,dotnet,ocaml,lua,py,neovim,git,docker,mysql,mongodb,php,laravel,linux,arch" />
   </a>
 </p>
