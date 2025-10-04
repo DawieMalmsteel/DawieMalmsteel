@@ -58,6 +58,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,angular,bash,obsidian,figma,tailwind,go,rust,cs,dotnet,ocaml,lua,py,neovim,git,docker,mysql,mongodb,php,laravel,linux,arch" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,angular,bash,obsidian,figma,tailwind,go,rust,cs,dotnet,ocaml,lua,py,neovim,git,docker,mysql,mongodb,php,laravel,linux,arch,bun,vscode,windows,md" />
   </a>
 </p>
